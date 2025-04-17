@@ -17,7 +17,13 @@ A Avaliação Integrada tem como foco:
 
 ## Como Utilizar este Repositório
 
-As respostas estão no arquivo `Respostas_Avaliação_Integrada.ipynb`, disponível neste repositório.  
+As respostas estão no arquivo `Respostas_Avaliação_Integrada.ipynb`, disponível neste repositório.
+
+Para abrir o arquivo `.ipynb`, você pode usar:
+
+- **Google Colab:** https://colab.research.google.com/  
+- **Jupyter Notebook (local):** https://jupyter.org/install
+
 Algumas respostas adicionais foram inseridas diretamente no material disponibilizado em sala.
 
 ## Acesso ao Banco de Dados MySQL
