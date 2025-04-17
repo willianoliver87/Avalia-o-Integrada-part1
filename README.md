@@ -1,6 +1,6 @@
 # Avaliação Integrada - README
 
-## 📌 Descrição da Prova
+## Descrição da Prova
 
 Este repositório contém os arquivos e informações referentes à **Avaliação Integrada**, aplicada como parte do conteúdo da disciplina ministrada pelo professor **Julio Favero Miranda**.
 
