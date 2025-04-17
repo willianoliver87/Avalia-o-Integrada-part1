@@ -1,5 +1,6 @@
 Avaliação Integrada - README
 Descrição da Prova
+
 Este repositório reúne os arquivos e informações relacionados à Avaliação Integrada da disciplina do professor Julio Favero Miranda.
 
 A proposta da prova é juntar teoria e prática numa única atividade, permitindo que você coloque em ação o que aprendeu ao longo do curso. A avaliação traz temas ligados ao conteúdo estudado e envolve análise, desenvolvimento e resolução de problemas mais próximos da realidade.
