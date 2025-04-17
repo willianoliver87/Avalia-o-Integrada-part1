@@ -20,7 +20,7 @@ O principal objetivo desta Avaliação Integrada é:
 
 As respostas estão disponíveis no arquivo Respostas_Avaliação_Integrada.ipynb, localizado neste repositório.
 
-Algumas respostas adicionais foram inseridas diretamente no documento disponibilizado na sala de aula pela instituição.
+Algumas respostas adicionais foram inseridas diretamente no documento disponibilizado na sala de aula durante a avaliação.
 
 Acesso ao Banco de Dados MySQL
 Por motivos de segurança, as credenciais de acesso ao banco de dados não estão incluídas neste repositório, que está configurado como público.
