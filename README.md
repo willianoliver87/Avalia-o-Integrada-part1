@@ -30,4 +30,10 @@ Qual modelo de serviço de nuvem as máquinas virtuais EC2 da AWS representam? I
 
 IaaS.
 
+(40) Crie um servidor de banco de dados MYSQL, utilizando algum serviço da AWS. Coloque abaixo o hostname, senha e usuário para acesso ao banco.
+database-1.c21fjnvngsvf.us-east-1.rds.amazonaws.com
+
+Crie um script para conexão com o banco de dados, e também a lógica para criação de um banco para receber a tabela do exercício da primeira seção.
+
+
 
