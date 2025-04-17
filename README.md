@@ -16,4 +16,18 @@ Dentre as questões anteriores escolha uma delas para fazer uma leve explicaçã
 
 Escolhi a opção acima. Eu criei um DataFrame organizando os dados em uma matriz de listas, onde cada lista interna representa os valores para uma hora específica em cada região. Defini os nomes das linhas ("hora_1", "hora_2", ..., "hora_10") e das colunas (nomes das regiões). Depois, usei a função pd.DataFrame() para criar o DataFrame, passando a matriz de dados e os nomes das linhas e colunas.
 
+Na realidade atual das empresas de tecnologia e análise de dados, é comum que dados e aplicações estejam distribuídos em ambientes de nuvem. O uso de plataformas como a AWS permite escalabilidade, disponibilidade e segurança.
+
+Por sua vez, a linguagem Python é amplamente usada para: Automatizar tarefas administrativas, Processar grandes volumes de dados e Conectar aplicações locais a bancos de dados remotos
+
+A integração entre Python e AWS RDS permite que scripts sejam escritos para ler e gravar dados diretamente em bancos SQL na nuvem.
+
+A ABC Organization compra uma assinatura do Microsoft 365 para todos os seus funcionários. Qual modelo de serviço em nuvem a ABC Organization adotou? IAAS SAAS PAAS FAAS
+
+SaaS.
+
+Qual modelo de serviço de nuvem as máquinas virtuais EC2 da AWS representam? IAAS SAAS PAAS FAAS
+
+IaaS.
+
 
