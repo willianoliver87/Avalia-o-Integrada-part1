@@ -1,0 +1,21 @@
+import pandas as pd
+
+dados = [
+    [100, 200, 150, 180, 220],  # hora_1
+    [110, 210, 160, 190, 230],  # hora_2
+    [120, 220, 170, 200, 240],  # hora_3
+    [130, 230, 180, 210, 250],  # hora_4
+    [140, 240, 190, 220, 260],  # hora_5
+    [150, 250, 200, 230, 270],  # hora_6
+    [160, 260, 210, 240, 280],  # hora_7
+    [170, 270, 220, 250, 290],  # hora_8
+    [180, 280, 230, 260, 300],  # hora_9
+    [190, 290, 240, 270, 310]   # hora_10
+]
+
+linhas = ["hora_1", "hora_2", "hora_3", "hora_4", "hora_5", "hora_6", "hora_7", "hora_8", "hora_9", "hora_10"]
+colunas = ["us-east-1", "us-west-2", "eu-central-1", "sa-east-1", "ap-southeast-1"]
+
+df = pd.DataFrame(dados, index=linhas, columns=colunas)
+
+print(df)
