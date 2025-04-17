@@ -1,25 +1,24 @@
 Avaliação Integrada - README
 Descrição da Prova
+Este repositório reúne os arquivos e informações relacionados à Avaliação Integrada da disciplina ministrada pelo professor Julio Favero Miranda.
 
-Este repositório reúne os arquivos e informações relacionados à Avaliação Integrada da disciplina do professor Julio Favero Miranda.
-
-A proposta da prova é juntar teoria e prática numa única atividade, permitindo que você coloque em ação o que aprendeu ao longo do curso. A avaliação traz temas ligados ao conteúdo estudado e envolve análise, desenvolvimento e resolução de problemas mais próximos da realidade.
+O principal objetivo da prova é integrar os conhecimentos adquiridos ao longo do curso, permitindo que o aluno coloque em prática conceitos teóricos e técnicos em uma única atividade. A avaliação aborda temas relevantes do conteúdo estudado e exige competências de análise, desenvolvimento e resolução de problemas práticos.
 
 Objetivo da Atividade
-O principal objetivo dessa Avaliação Integrada é:
+A Avaliação Integrada tem como foco:
 
-Verificar se você consegue aplicar, na prática, os conhecimentos adquiridos;
+Verificar a capacidade do aluno de aplicar, na prática, os conhecimentos adquiridos;
 
 Estimular o raciocínio lógico, técnico e crítico;
 
-Reforçar o que foi aprendido por meio da resolução de desafios;
+Consolidar o aprendizado por meio da resolução de desafios reais ou simulados;
 
-Avaliar sua autonomia e domínio das ferramentas vistas ao longo do curso.
+Avaliar a autonomia e o domínio das ferramentas e conceitos estudados.
 
 Como Utilizar este Repositório
-As respostas estão organizadas no arquivo Respostas_Avaliação_Integrada.ipynb, que você encontra aqui neste repositório.
+As respostas estão organizadas no arquivo Respostas_Avaliação_Integrada.ipynb, localizado neste repositório.
 
-Além disso, algumas respostas extras foram incluídas diretamente no documento que foi disponibilizado na sala de aula durante a aplicação da prova.
+Além disso, algumas respostas adicionais foram registradas diretamente no documento disponibilizado na sala de aula no momento da avaliação.
 
 Acesso ao Banco de Dados MySQL
-Por motivos de segurança, as credenciais de acesso ao banco não estão incluídas neste repositório (ele é público). Durante a atividade, utilizamos a senha padrão que foi informada pelo professor.
+Por questões de segurança, as credenciais de acesso ao banco de dados não estão incluídas neste repositório, que é público. Durante a atividade, foi utilizada a senha padrão fornecida pelo professor.
