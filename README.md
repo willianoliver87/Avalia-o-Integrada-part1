@@ -19,11 +19,7 @@ A Avaliação Integrada tem como foco:
 
 As respostas estão no arquivo `Respostas_Avaliação_Integrada.ipynb`, disponível neste repositório.
 
-Para abrir o arquivo `.ipynb`, você pode usar:
-
-- **Google Colab:** https://colab.research.google.com/  
-- **Jupyter Notebook (local):** https://jupyter.org/install
-
+Para abrir o arquivo `.ipynb`, você pode utilizar o Google Colab, Jupyter Notebook, VS Code com a extensão Jupyter, ou qualquer outro ambiente compatível com notebooks Python.
 Algumas respostas adicionais foram inseridas diretamente no material disponibilizado em sala.
 
 ## Acesso ao Banco de Dados MySQL
