@@ -2,9 +2,11 @@
 
 ## Descrição da Prova
 
-Este repositório reúne os arquivos e informações relacionados à **Avaliação Integrada** da disciplina ministrada pelo professor **Julio Favero Miranda**.
+## Sobre
 
-O principal objetivo da prova é integrar os conhecimentos adquiridos ao longo do curso, permitindo que o aluno coloque em prática conceitos teóricos e técnicos em uma única atividade. A avaliação aborda temas relevantes do conteúdo estudado e exige competências de análise, desenvolvimento e resolução de problemas práticos.
+Este repositório contém os arquivos relacionados à Avaliação Integrada da disciplina ministrada pelo professor Julio Favero Miranda.
+
+A proposta da atividade é aplicar, de forma prática, os conteúdos vistos ao longo do curso, conectando teoria e prática em um único desafio.
 
 ## Objetivo da Atividade
 
@@ -17,11 +19,17 @@ A Avaliação Integrada tem como foco:
 
 ## Como Utilizar este Repositório
 
-As respostas estão organizadas no arquivo `Respostas_Avaliação_Integrada.ipynb`, localizado neste repositório.
-
-Além disso, algumas respostas adicionais foram registradas diretamente no documento disponibilizado na sala de aula no momento da avaliação.
+As respostas estão no arquivo `Respostas_Avaliação_Integrada.ipynb`, disponível neste repositório.  
+Algumas respostas adicionais foram inseridas diretamente no material disponibilizado em sala.
 
 ## Acesso ao Banco de Dados MySQL
 
-Por questões de segurança, as credenciais de acesso ao banco de dados não estão incluídas neste repositório, que é público. 
+Por questões de segurança, as credenciais do banco de dados MySQL não foram incluídas aqui, já que o repositório é público. 
 Durante a atividade, foi utilizada a senha padrão fornecida pelo professor.
+
+
+
+
+
+
+
