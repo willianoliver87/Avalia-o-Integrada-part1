@@ -16,7 +16,7 @@ O principal objetivo desta Avaliação Integrada é:
 - Avaliar a autonomia e o domínio das ferramentas estudadas.
 
   
-## Como Utilizar este Repositório
+# Como Utilizar este Repositório
 
 As respostas estão disponíveis no arquivo Respostas_Avaliação_Integrada.ipynb, localizado neste repositório.
 
