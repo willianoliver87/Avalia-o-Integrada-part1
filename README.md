@@ -1,7 +1,5 @@
 # Avaliação Integrada - README
 
-## Descrição da Prova
-
 ## Sobre
 
 Este repositório contém os arquivos relacionados à Avaliação Integrada da disciplina ministrada pelo professor Julio Favero Miranda.
